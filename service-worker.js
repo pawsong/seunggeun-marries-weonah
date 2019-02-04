@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wedding-dist/precache-manifest.4263c699f1df2445714c4a7d284e6163.js"
+  "https://pawsong.github.io/wedding-g/precache-manifest.f6893ccd226a9213d7ad1d5f7993dae1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/wedding-dist/index.html", {
+workbox.routing.registerNavigationRoute("https://pawsong.github.io/wedding-g/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
