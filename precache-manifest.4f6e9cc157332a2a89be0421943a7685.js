@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/media/sw_1.e1ca6775.jpg"
   },
   {
-    "revision": "f4c833ab4b062776eb8a",
+    "revision": "3a5ba21d914a3686b389",
     "url": "https://pawsong.github.io/wedding-g/static/css/main.126973c4.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/media/sw.787f1892.jpg"
   },
   {
-    "revision": "f4c833ab4b062776eb8a",
-    "url": "https://pawsong.github.io/wedding-g/static/js/main.f4c833ab.chunk.js"
+    "revision": "3a5ba21d914a3686b389",
+    "url": "https://pawsong.github.io/wedding-g/static/js/main.3a5ba21d.chunk.js"
   },
   {
     "revision": "0a2f63a4516c9aac8629d834cd7007e8",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/css/1.c6ac89ae.chunk.css"
   },
   {
-    "revision": "de00964989df62c828eaa52577ab9d0e",
+    "revision": "efa2dbf5e585a4273de4a766eb18fb49",
     "url": "https://pawsong.github.io/wedding-g/index.html"
   }
 ];
