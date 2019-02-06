@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://pawsong.github.io/wedding-g/precache-manifest.4f6e9cc157332a2a89be0421943a7685.js"
+  "https://pawsong.github.io/wedding-g/precache-manifest.d82f6491913c0a7408a7528a63b7b217.js"
 );
 
 workbox.clientsClaim();

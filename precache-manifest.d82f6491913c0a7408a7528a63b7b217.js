@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/media/sw_1.e1ca6775.jpg"
   },
   {
-    "revision": "3a5ba21d914a3686b389",
-    "url": "https://pawsong.github.io/wedding-g/static/css/main.126973c4.chunk.css"
+    "revision": "cd1714909e527a650274",
+    "url": "https://pawsong.github.io/wedding-g/static/css/main.65c52bb6.chunk.css"
   },
   {
-    "revision": "e80e6b1348705c3dbbe933112b9e1d55",
-    "url": "https://pawsong.github.io/wedding-g/static/media/flower.e80e6b13.jpg"
+    "revision": "ccbf7adf7814da680b8a7fe76b3b5b55",
+    "url": "https://pawsong.github.io/wedding-g/static/media/phone_icon_touched.ccbf7adf.png"
   },
   {
-    "revision": "443985ac51d03b2651cc",
-    "url": "https://pawsong.github.io/wedding-g/static/js/1.443985ac.chunk.js"
+    "revision": "7d51642473cc33bc7369",
+    "url": "https://pawsong.github.io/wedding-g/static/js/1.7d516424.chunk.js"
   },
   {
     "revision": "732ec9aa40de048cdcbc",
@@ -28,20 +28,12 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/media/sw.787f1892.jpg"
   },
   {
-    "revision": "3a5ba21d914a3686b389",
-    "url": "https://pawsong.github.io/wedding-g/static/js/main.3a5ba21d.chunk.js"
-  },
-  {
-    "revision": "0a2f63a4516c9aac8629d834cd7007e8",
-    "url": "https://pawsong.github.io/wedding-g/static/media/sw_2.0a2f63a4.jpg"
+    "revision": "cd1714909e527a650274",
+    "url": "https://pawsong.github.io/wedding-g/static/js/main.cd171490.chunk.js"
   },
   {
     "revision": "e37b6732fddfe716c65346550216a301",
     "url": "https://pawsong.github.io/wedding-g/static/media/sw_3.e37b6732.jpg"
-  },
-  {
-    "revision": "2d681e5b79fbf550c9497f0e904e9ea9",
-    "url": "https://pawsong.github.io/wedding-g/static/media/sw_6.2d681e5b.jpg"
   },
   {
     "revision": "9ec4e0d768907608cf7b4a881fc78daf",
@@ -52,11 +44,19 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/wedding-g/static/media/draw.edc2328e.png"
   },
   {
-    "revision": "443985ac51d03b2651cc",
-    "url": "https://pawsong.github.io/wedding-g/static/css/1.c6ac89ae.chunk.css"
+    "revision": "e80e6b1348705c3dbbe933112b9e1d55",
+    "url": "https://pawsong.github.io/wedding-g/static/media/flower.e80e6b13.jpg"
   },
   {
-    "revision": "efa2dbf5e585a4273de4a766eb18fb49",
+    "revision": "8bca42982450a8d7dbcdfb3c3a8d26de",
+    "url": "https://pawsong.github.io/wedding-g/static/media/message_icon_touched.8bca4298.png"
+  },
+  {
+    "revision": "7d51642473cc33bc7369",
+    "url": "https://pawsong.github.io/wedding-g/static/css/1.4657eecb.chunk.css"
+  },
+  {
+    "revision": "c9d900e34be00b72f3fa56c3aab42a61",
     "url": "https://pawsong.github.io/wedding-g/index.html"
   }
 ];
